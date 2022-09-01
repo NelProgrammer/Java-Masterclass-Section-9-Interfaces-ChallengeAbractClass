@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8e05ab5-ccf1-49d4-a00a-4295d1c565c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge - Abstract Class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NodeList.java" afterDir="false" />
+    <list default="true" id="b8e05ab5-ccf1-49d4-a00a-4295d1c565c2" name="Changes" comment="New Project - Challenge on Abstract Classes&#10;1. Created Abstract ListItem Class.&#10;2. Created Node Class Inheriting from ListItem.&#10;3. Created NodeList Interface.">
+      <change afterPath="$PROJECT_DIR$/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -31,6 +23,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DJNELrjzlLBx5rfYj51vCncPt1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,6 +49,28 @@
       <option name="presentableId" value="Default" />
       <updated>1660413139450</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created Abstract ListItem Class.&#10;Created Node Class Inheriting from ListItem.&#10;Created NodeList Interface.">
+      <created>1662065096370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662065096387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Project - Challenge on Abstract Classes&#10;Created Abstract ListItem Class.&#10;Created Node Class Inheriting from ListItem.&#10;Created NodeList Interface.">
+      <created>1662065176153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662065176153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New Project - Challenge on Abstract Classes&#10;1. Created Abstract ListItem Class.&#10;2. Created Node Class Inheriting from ListItem.&#10;3. Created NodeList Interface.">
+      <created>1662065202461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662065202461</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +95,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Abstract ListItem Class.&#10;Created Node Class Inheriting from ListItem.&#10;Created NodeList Interface." />
+    <MESSAGE value="New Project - Challenge on Abstract Classes&#10;Created Abstract ListItem Class.&#10;Created Node Class Inheriting from ListItem.&#10;Created NodeList Interface." />
+    <MESSAGE value="New Project - Challenge on Abstract Classes&#10;1. Created Abstract ListItem Class.&#10;2. Created Node Class Inheriting from ListItem.&#10;3. Created NodeList Interface." />
+    <option name="LAST_COMMIT_MESSAGE" value="New Project - Challenge on Abstract Classes&#10;1. Created Abstract ListItem Class.&#10;2. Created Node Class Inheriting from ListItem.&#10;3. Created NodeList Interface." />
   </component>
 </project>
